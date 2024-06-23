@@ -12,6 +12,9 @@ Maintenant choissisez votre couleur grâce aux touches Page Up et Page Down (![L
 Dans la même thématique que ColorSwitcher voici ColorHidder!
 
 Soyez tous de la même couleur, cela rendra la game bien plus palpitante!
+## Drop Item
+
+Lacher vos objets afin que d'autre joueurs en profite en utilisant la touche F3!
 ## HavrestOnMeeting
 
 Ce mod permet d'afficher ou cacher l'avancement de la récolte du jeu.
