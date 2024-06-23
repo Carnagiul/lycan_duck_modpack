@@ -51,7 +51,7 @@ Ce mod vous permet de modifier votre vote en cours de feu de camp.
 Vous retrouverez dans cette sections les nouveaux Roles ajoutés par les différents mods.
 ## Chevalier
 
-***Chevalier*** : C'est un rôle du côté ***Village***. Il peut une fois par partie protéger quelqu'un ou lui même contre une mort ( Hors vote ).
+***Chevalier*** : C'est un rôle du côté ***Village***. Il peut protéger quelqu'un ou lui même contre une mort ( Hors vote ).
 
 Si une personne tente de tuer la personne protéger; celle ci se verra bloqué durant un certains nombre de secondes. La personne protéger se voit aussi régenerer d'un certains % de nourriture.
 
