@@ -7,6 +7,8 @@ Vous retrouverez dans cette sections les différentes méchanique ajoutés par l
 Marre d'être toujours Rouge, ou envie d'être toujours Bleu?
 
 Maintenant choissisez votre couleur grâce aux touches Page Up et Page Down (![Les deux touches à droite](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Insertpad-fr.svg/1200px-Insertpad-fr.svg.png))
+(![PAGE UP ET PAGE DOWN](https://fr.wikipedia.org/wiki/Touches_de_d%C3%A9filement))
+
 ## ColorHidder
 
 Dans la même thématique que ColorSwitcher voici ColorHidder!
