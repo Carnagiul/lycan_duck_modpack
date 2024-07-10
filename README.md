@@ -91,6 +91,18 @@ L'effet de paralysie s'active lorsque le loup tue le Porc-épic.
 - **Configuration** :
   - Nombre de paralysies (entre 0 et 3)
 
+## Rat
+
+***Rat*** : C'est un rôle ***Solitaire***. Quand un ***Rat*** mange un des ressources, celle-ci ne vont pas dans le pot du village mais dans un objectif personelle.
+
+Si le rat arrive à obtenir les points recquis il gagne alors.
+Il peut apercevoir l'evolution de son score en bas à droite de son écran.
+
+
+- **Configuration** :
+  - Score à obtenire (entre 500 et 2000)
+
+
 ## Chasseur Revenchard
 
  C'est un rôle du côté ***Village***. Lors de la mort du chasseur tu fais quoi? Bah tu pleures! Maintenant tu peux devenir chasseur à la place du chasseur!, par contre tu n'auras pas de balle dans ton chargeur!
