@@ -69,6 +69,7 @@ Il à aussi la possibilité de retirer le poison du Serpent en appliquant son bo
 - **Configuration** :
   - Nombre de safe kill (entre 0 et 5)
   - Vitesse Supplémentaire (entre 0% et 100%)
+  - Affichage des alliées Oui ou Non
 ## Serpent
 
 ***Serpent*** : C'est un rôle du côté ***Loup***. Dans chaque partie, l'un des loups est désigné comme le serpent. 
@@ -127,6 +128,30 @@ Toutes les informations de la partie sont sauvegardé et transmise à un site. V
 ## ModManager
 
 Bah lui il gère surtout l'ui des mods :)
+## FogController
+
+C'est un mod qui gère le brouillard afin de l'intensifier
+Plusieurs rôles sont impactées par le fog. Les villageois, les loups, le chasseur ont leur propres vision du jeu!
+
+#Roles Secondaires
+
+## Maire
+- Le maire vois son vote compté double lors des meetings
+- Le maire peut être choisis dans l'ensemble des camps (Solitaire, Loup, Villageois)
+
+## Grand Loup
+- Le grand loup est sur l'un des deux loups
+- Le grand loup vois sa vitesse baissé de 10%
+- Le grand loup obtient une range augmenté de 20%
+
+## Adorateur
+- L'adorateur est un rôle qui s'attache à n'importe quel joueur qui n'es ni chasseur ni loup
+- Quand un loup tente d'utiliser son pouvoir sur l'adorateur celui verra un nouveau message doré
+- Quand un adorateur se fait transformer par un loup; celui si vois sa vision devenir verte instantanément
+- Chaque nuit l'adorateur se transformera en Loup contre son grès
+- Si un Chevalier utilise son pouvoir sur un adorateur, celui sera guérit
+
+
 ## Remerciements
 
 Un grand merci à : 
